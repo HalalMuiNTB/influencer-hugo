@@ -1,4 +1,4 @@
-baseURL = "https://examplesite.com"
+baseURL = "https://www.halalmuintb.org"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
@@ -30,7 +30,7 @@ name = "Contact"
 weight = 6
 [params]
 author = "Themefisher"
-copyright = "Copyright &copy; 2019 [GetHugoThemes](https://gethugothemes.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 MUI NTB All Rights Reserved"
 description = "This is meta description"
 googleAnalitycsID = ""
 home = "Home"
