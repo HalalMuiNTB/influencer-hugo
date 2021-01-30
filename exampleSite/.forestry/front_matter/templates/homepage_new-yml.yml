@@ -303,3 +303,5 @@ fields:
       - type: text
         name: listItem
         label: listItem
+pages:
+- exampleSite/data/homepage.yml
