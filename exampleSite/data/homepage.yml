@@ -4,9 +4,10 @@ banner:
   writter: LPPOM MUI NTB
   title: Halal MUI NTB
   image: images/about/book.png
-  content: We work with our partners to streamline project plans that don’t just deliver
-    on product perfection, but also delivers on time.
-  price: "14.99"
+  content: Lembaga Pemeriksa Halal (LPH) yang amanah untuk ummat Islam di seluruh
+    Indonesia khususnya di Nusa Tenggara Barat dan selalu menjadi yang terdepan dalam
+    solusi Jaminan Halal.
+  price: "-"
 preview:
   enable: true
   pagePreview:
