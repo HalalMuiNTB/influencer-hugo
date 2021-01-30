@@ -162,8 +162,8 @@ blog:
 contact:
   enable: true
   title: Contact Us
-  subtitle: Whether you have questions or you would just like to say hello, contact
-    us.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, atque!
+  subtitle: Silahkan kontak kami jika membutuhkan penjelasan lebih lanjut atau datang
+    ke kantor kami.
   contactItem:
   - title: Kontak
     icon: ti-headphone-alt
