@@ -156,9 +156,8 @@ otherBooks:
     link: "#"
 blog:
   enable: true
-  title: Our insights and articles
-  subtitle: Laboriosam eos aperiam excepturi accusamus velit repudiandae sit rem incidunt,
-    similique facere quas blanditiis.
+  title: Artikel Kami
+  subtitle: ''
 contact:
   enable: true
   title: Contact Us
