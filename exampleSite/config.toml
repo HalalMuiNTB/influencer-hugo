@@ -19,7 +19,7 @@ weight = 4
 [[menu.main]]
 URL = "review"
 name = "Sertifikasi Halal"
-url = "http://regs.e-lppommui.org"
+url = "http%3A//regs.e-lppommui.org"
 weight = 3
 [[menu.main]]
 URL = "chapter"
