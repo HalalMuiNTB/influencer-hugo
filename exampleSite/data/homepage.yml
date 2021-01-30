@@ -162,8 +162,7 @@ blog:
 contact:
   enable: true
   title: Contact Us
-  subtitle: Silahkan kontak kami jika membutuhkan penjelasan lebih lanjut atau datang
-    ke kantor kami.
+  subtitle: Silahkan kontak kami jika membutuhkan penjelasan lebih lanjut.
   contactItem:
   - title: Kontak
     icon: ti-headphone-alt
