@@ -1,0 +1,304 @@
+---
+label: homepage_new.yml
+hide_body: true
+fields:
+- type: field_group
+  name: banner
+  label: banner
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: writter
+    label: writter
+  - type: text
+    name: title
+    label: title
+  - type: file
+    name: image
+    label: image
+  - type: textarea
+    name: content
+    label: content
+  - type: text
+    name: price
+    label: price
+- type: field_group
+  name: preview
+  label: preview
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: field_group_list
+    name: pagePreview
+    label: pagePreview
+    fields:
+    - type: file
+      name: image
+      label: image
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+  - type: field_group_list
+    name: inside
+    label: inside
+    fields:
+    - type: text
+      name: insideItem
+      label: insideItem
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: boolean
+      name: enable
+      label: enable
+    - type: text
+      name: label
+      label: label
+    - type: text
+      name: link
+      label: link
+- type: field_group
+  name: service
+  label: service
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: field_group_list
+    name: serviceItem
+    label: serviceItem
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: icon
+      label: icon
+    - type: text
+      name: content
+      label: content
+- type: field_group
+  name: quote
+  label: quote
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: quote
+    label: quote
+  - type: text
+    name: quoteBy
+    label: quoteBy
+- type: field_group
+  name: chapters
+  label: chapters
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: subtitle
+    label: subtitle
+  - type: field_group_list
+    name: chapter
+    label: chapter
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: content
+      label: content
+- type: field_group
+  name: reviews
+  label: reviews
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: subtitle
+    label: subtitle
+  - type: field_group_list
+    name: review
+    label: review
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: file
+      name: image
+      label: image
+    - type: text
+      name: designation
+      label: designation
+    - type: text
+      name: rating
+      label: rating
+    - type: textarea
+      name: content
+      label: content
+- type: field_group
+  name: devices
+  label: devices
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+  - type: file
+    name: image
+    label: image
+  - type: field_group_list
+    name: feature
+    label: feature
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: icon
+      label: icon
+    - type: text
+      name: content
+      label: content
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: boolean
+      name: enable
+      label: enable
+    - type: text
+      name: label
+      label: label
+    - type: text
+      name: link
+      label: link
+- type: field_group
+  name: author
+  label: author
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: designation
+    label: designation
+  - type: textarea
+    name: content
+    label: content
+  - type: file
+    name: signature
+    label: signature
+- type: field_group
+  name: awards
+  label: awards
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: award
+    label: award
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: file
+      name: image
+      label: image
+- type: field_group
+  name: otherBooks
+  label: otherBooks
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: subtitle
+    label: subtitle
+  - type: field_group_list
+    name: book
+    label: book
+    fields:
+    - type: file
+      name: image
+      label: image
+    - type: text
+      name: link
+      label: link
+- type: field_group
+  name: blog
+  label: blog
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: subtitle
+    label: subtitle
+- type: field_group
+  name: contact
+  label: contact
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: subtitle
+    label: subtitle
+  - type: field_group_list
+    name: contactItem
+    label: contactItem
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: icon
+      label: icon
+    - type: field_group_list
+      name: list
+      label: list
+      fields:
+      - type: text
+        name: listItem
+        label: listItem
