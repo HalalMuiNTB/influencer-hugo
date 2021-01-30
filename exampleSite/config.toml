@@ -4,10 +4,27 @@ paginate = 6
 summaryLength = "10"
 theme = "influencer-hugo"
 title = "Halal MUI NTB"
-[menu.main]
-URL = "book"
-name = "Beranda"
-weight = 1
+[[menu.main]]
+URL = "contact"
+name = "Kontact"
+weight = 6
+[[menu.main]]
+URL = "blog"
+name = "Info"
+weight = 5
+[[menu.main]]
+URL = "author"
+name = "Layanan Kami"
+weight = 4
+[[menu.main]]
+URL = "review"
+name = "Sertifikasi Halal"
+url = "www.regs.e-lppommui.org"
+weight = 3
+[[menu.main]]
+URL = "chapter"
+name = "Tentang Kami"
+weight = 2
 [params]
 author = "Themefisher"
 copyright = "Copyright &copy; 2021 LPPOM MUI NTB All Rights Reserved"
