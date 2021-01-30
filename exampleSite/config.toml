@@ -37,7 +37,7 @@ home = "Home"
 logo = "/uploads/logo_halal.png"
 [params.cookies]
 enable = true
-expire_days = 2
+expire_days = "1"
 [params.footer]
 content = "Each theme featured at the Bootstrap marketplace has been reviewed by Bootstrap's creators.Lorem ipsum dolor sit amet, consectetur adipisicing elit."
 [params.navButton]
