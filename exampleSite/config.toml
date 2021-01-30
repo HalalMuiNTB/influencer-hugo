@@ -30,7 +30,7 @@ name = "Contact"
 weight = 6
 [params]
 author = "Themefisher"
-copyright = "Copyright &copy; 2020 MUI NTB All Rights Reserved"
+copyright = "Copyright &copy; 2021 LPPOM MUI NTB All Rights Reserved"
 description = "This is meta description"
 googleAnalitycsID = ""
 home = "Home"
