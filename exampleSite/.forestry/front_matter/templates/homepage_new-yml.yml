@@ -24,6 +24,7 @@ fields:
   - type: text
     name: price
     label: price
+    hidden: true
 - type: field_group
   name: preview
   label: preview
