@@ -34,7 +34,7 @@ copyright = "Copyright &copy; 2021 LPPOM MUI NTB All Rights Reserved"
 description = "This is meta description"
 googleAnalitycsID = ""
 home = "Home"
-logo = ""
+logo = "/uploads/logo_halal.png"
 [params.cookies]
 enable = true
 expire_days = 2
