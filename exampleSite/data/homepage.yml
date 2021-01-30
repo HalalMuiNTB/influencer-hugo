@@ -3,11 +3,11 @@ banner:
   enable: true
   writter: LPPOM MUI NTB
   title: Halal MUI NTB
-  image: images/about/book.png
+  image: "/uploads/5d967fd0-a614-48ac-8538-b5a83658dc6d.jpg"
   content: Lembaga Pemeriksa Halal (LPH) yang amanah untuk ummat Islam di seluruh
     Indonesia khususnya di Nusa Tenggara Barat dan selalu menjadi yang terdepan dalam
     solusi Jaminan Halal.
-  price: "-"
+  price: ''
 preview:
   enable: true
   pagePreview:
